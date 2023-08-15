@@ -8,7 +8,10 @@ Welcome to my repository of solutions for the Advent of Code challenges! Advent 
 [Advent of code](https://adventofcode.com/)  offers a series of creative and thought-provoking puzzles that cover a wide range of topics, including algorithms, data structures, mathematics, and more. It's a fantastic opportunity to enhance problem-solving skills, learn new programming techniques, and engage with a global coding community.
 <br>
 <br>
-![image](./advent.png)
+
+<img src="./advent.png" height ="300"
+width="600"
+title="Advent of Code">
 
 ## Repository Structure
 
