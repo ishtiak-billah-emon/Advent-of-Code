@@ -9,7 +9,7 @@ Welcome to my repository of solutions for the Advent of Code challenges! Advent 
 <br>
 <br>
 
-<img src="./advent.png" height ="300"
+<img src="./Image/advent.png" height ="300"
 width="600"
 title="Advent of Code">
 
